@@ -12,7 +12,7 @@
         <dependency>
             <groupId>cz.zcu.kiv</groupId>
             <artifactId>workflow_designer</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.20</version>
         </dependency>
 
 
